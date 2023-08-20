@@ -62,7 +62,7 @@ let infobt = `
 ▢ GitHub :
   • https://github.com/false-eye
 ▢ Telegram : 
-  • https://t.me/Abhishek_Ser  
+  • https://t.me/false_eye
 ▢ YouTube : 
   • https://youtube.com/@false_eye
 
