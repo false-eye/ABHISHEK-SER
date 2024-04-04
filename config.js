@@ -47,16 +47,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Hateler'
+global.botname = '9ine.x3'
 global.premium = 'true'
-global.packname = 'Mad 卐 Nazi' 
+global.packname = '9ine.x3' 
 global.author = '@false_eye' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/false_eye\n' 
 global.dygp = 'https://t.me/sarca_stics'
 global.fgsc = 'https://github.com/false-eye' 
-global.fgyt = 'https://youtube.com/@false_eye'
+global.fgyt = 'https://instagram.com/false_eye'
 global.fgpyp = 'https://youtube.com/@false_eye'
-global.fglog = 'https://i.imgur.com/Lne1Mdu.jpeg' 
+global.fglog = 'https://telegra.ph/file/1de75dc438bfec68d0bca.jpg' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
